@@ -32,8 +32,7 @@ For the detection task, we used **BERT** (Bidirectional Encoder Representations 
 
 ## Tech Stack  
 - Python  
-- Hugging Face Transformers  
-- Gradio (for UI)  
+- Hugging Face Transformers 
 - Jupyter Notebooks
 
 ---
