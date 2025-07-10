@@ -34,6 +34,7 @@ For the detection task, we used **BERT** (Bidirectional Encoder Representations 
 - Python  
 - Hugging Face Transformers 
 - Jupyter Notebooks
+- Gradio
 
 ---
 
